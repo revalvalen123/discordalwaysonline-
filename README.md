@@ -1,2 +1,1 @@
-# AwMaQ-Bot
 discordalwaysonline
